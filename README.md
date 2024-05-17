@@ -1,4 +1,4 @@
- <a href="https://komarev.com/ghpvc/?username=AhmedZerada">
+<a href="https://komarev.com/ghpvc/?username=AhmedZerada">
   <img align="right" src="https://komarev.com/ghpvc/?username=AhmedZerada&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -6,9 +6,9 @@
  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
 </a>
 
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Zerida</h1>
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Zerada</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=machine+learning+engineer;Computer+Science+Undergraduate;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=data+scientist;Computer+Science+Undergraduate;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ❤️ &emsp; Love to writing code and learning new features<br/><br/>
 
-🌱 &emsp; Try to improve myself by solving problems on LeetCode, reading books,making new projects, and more 💪<br/><br/>
+🌱 &emsp; Try to improve myself by solving problems on LeetCode, reading books, and more 💪<br/><br/>
 
 </p>
 
@@ -56,6 +56,7 @@
 [![othello_game](https://github-readme-stats.vercel.app/api/pin/?username=AhmedZerida&repo=othello_game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AhmedZerida/othello_game)
 [![maze_A*](https://github-readme-stats.vercel.app/api/pin/?username=AhmedZerida&repo=maze_A-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AhmedZerida/maze_A-)
 [![tic_tac_toe](https://github-readme-stats.vercel.app/api/pin/?username=AhmedZerida&repo=tic_tac_toe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AhmedZerida/tic_tac_toe)
+[![Agri-tech360](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=Agri-tech360&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/Agri-tech360)
 
 <p align="left">
   <a href="https://github.com/AhmedZerida?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
