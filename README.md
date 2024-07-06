@@ -6,7 +6,7 @@
  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
 </a>
 
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Zerada</h1>
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Zerida</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=data+scientist;Computer+Science+Undergraduate;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
