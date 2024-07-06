@@ -24,7 +24,7 @@
 
 ❤️ &emsp; Love to writing code and learning new features<br/><br/>
 
-🌱 &emsp; Try to improve myself by solving problems on LeetCode, reading books, and more 💪<br/><br/>
+🌱 &emsp; Try to improve myself by solving problems on codeforces, reading books & research papers, and more 💪<br/><br/>
 
 </p>
 
